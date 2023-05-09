@@ -23,3 +23,9 @@
     - Well supported due to its popularity
     - React is not opinionated
     - Smaller learning curve
+
+
+### Components
+    - Applications built with React are made with (reusable) components
+    - Components are your "building blocks"
+    

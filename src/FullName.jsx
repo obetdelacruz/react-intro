@@ -1,5 +1,11 @@
-function FullName(props) {
-  return <p>{props.name}</p>;
+function Fullname(props) {
+  return (
+    <div>
+      <h1>{props.name}</h1>
+      <h2>{props.age}</h2>
+      <p>{props.address}</p>
+    </div>
+  );
 }
 
-export default FullName;
+export default Fullname;
